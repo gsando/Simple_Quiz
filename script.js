@@ -1,29 +1,29 @@
 const questions = [
     {
-        question: "What is a nickname used for Tsuki?",
+        question: "What is the largest living reptile?",
         answers: [
-            { text: "Tsuki wookie", correct: false },
-            { text: "Tsuki bookie", correct: true },
-            { text: "Baby tsuk", correct: false },
-            { text: "Albert Whinestein", correct: false }
+            { text: "Mugger Crocodile", correct: false },
+            { text: "Saltwater Crocodile", correct: true },
+            { text: "Black Caiman", correct: false },
+            { text: "Leatherback sea turtle", correct: false }
         ]
     },
     {
-        question: "What is a nickname used for Minx?",
+        question: "Where was paper money first used?",
         answers: [
-            { text: "STINKY BINKY", correct: false },
-            { text: "Bonk", correct: false },
-            { text: "Minxy Minaj", correct: false },
-            { text: "Monk", correct: true }
+            { text: "USA", correct: false },
+            { text: "Greece", correct: false },
+            { text: "Turkey", correct: false },
+            { text: "China", correct: true }
         ]
     },
     {
-        question: "What is a nickname used for Soona?",
+        question: "Which horoscope's sign is a fish?",
         answers: [
-            { text: "Twink", correct: true },
-            { text: "Soona boona", correct: false },
-            { text: "Mon Soonie", correct: false },
-            { text: "Teenie boy", correct: false }
+            { text: "Pisces", correct: true },
+            { text: "Cancer", correct: false },
+            { text: "Taurus", correct: false },
+            { text: "Gemini", correct: false }
         ]
     },
     {
